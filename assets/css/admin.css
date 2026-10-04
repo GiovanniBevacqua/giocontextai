@@ -1,0 +1,179 @@
+.giocontextai-settings table tr td label:has([type="checkbox"]) {
+    display: block;
+}
+.giocontextai-settings table tr td label:has([type="checkbox"]):not(:last-of-type) {
+    margin-bottom: 5px;
+}
+.giocontextai-settings .giocontextai-term-name {
+    font-size: 12px;
+    color: #666;
+}
+.giocontextai-textarea {
+    width: 100%;
+}
+label:has(+ .giocontextai-textarea) {
+    display: block;
+    margin-bottom: 5px;
+}
+.gca-badge-menu {
+    background: #dba617;
+    color: #fff;
+    font-size: 10px;
+    font-weight: 600;
+    padding: 1px 5px;
+    border-radius: 4px;
+    vertical-align: middle;
+    margin-left: 4px;
+}
+.gca-badge-menu.gca-high-level {
+    background: #00a32a;
+}
+
+.giocontextai-analytics-card {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    padding: 20px;
+    border-radius: 4px;
+    position: relative;
+    margin-top: 20px;
+}
+
+.giocontextai-score-banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #f0f6fc;
+    border-left: 4px solid #2271b1;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+}
+
+.giocontextai-score-label {
+    font-size: 13px;
+    color: #50575e;
+    display: block;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.giocontextai-score-value {
+    font-size: 28px;
+    color: #1d2327;
+}
+
+.giocontextai-badge {
+    color: #fff;
+    padding: 4px 10px;
+    border-radius: 4px;
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.giocontextai-badge-success {
+    background-color: #00a32a;
+}
+
+.giocontextai-badge-warning {
+    background-color: #dba617;
+}
+
+.giocontextai-checks-section {
+    margin-bottom: 20px;
+}
+
+.giocontextai-checks-title {
+    margin-top: 0;
+}
+
+.giocontextai-checks-list {
+    margin: 0;
+    padding-left: 15px;
+    list-style-type: disc;
+}
+
+.giocontextai-checks-list li {
+    margin-bottom: 8px;
+}
+
+.giocontextai-check-pass {
+    color: #00a32a;
+    font-weight: bold;
+}
+
+.giocontextai-check-fail {
+    color: #dc3232;
+    font-weight: bold;
+}
+
+.giocontextai-pro-note {
+    font-size: 12px;
+    color: #666;
+    font-style: italic;
+}
+
+.giocontextai-notice-box {
+    background: #fff8e5;
+    border-left: 4px solid #dba617;
+    padding: 12px 15px;
+    margin-bottom: 20px;
+}
+
+.giocontextai-notice-box p {
+    margin: 0;
+    font-size: 14px;
+    color: #1d2327;
+}
+
+.giocontextai-table-wrapper {
+    margin-top: 30px;
+}
+
+.giocontextai-comparison-table {
+    max-width: 900px;
+    margin-top: 15px;
+}
+
+.giocontextai-col-feature {
+    width: 50%;
+}
+
+.giocontextai-col-tier {
+    width: 25%;
+    text-align: center;
+}
+
+.giocontextai-feature-desc {
+    color: #666;
+    font-size: 12px;
+}
+
+.giocontextai-check,
+.giocontextai-cross,
+.giocontextai-center {
+    text-align: center;
+}
+
+.giocontextai-upgrade-submit {
+    margin-top: 20px;
+}
+
+.giocontextai-settings-notice {
+    margin: 15px 0 20px 0;
+    padding: 10px 15px;
+}
+
+.giocontextai-settings-notice p {
+    margin: 0;
+}
+
+.giocontextai-checkbox-label {
+    display: block;
+    margin-bottom: 5px;
+}
+.giocontextai-settings .card {
+    max-width: initial;
+}
+.gca-feed-actions {
+    display: flex;
+    gap: 12px;
+}
