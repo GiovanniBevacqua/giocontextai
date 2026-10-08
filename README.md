@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".wordpress-org/banner-1544x500.jpg" alt="GioContextAi — open your WordPress site to AI crawlers and LLMs">
+  <img src=".wordpress-org/banner-1544x500.png" alt="GioContextAi — open your WordPress site to AI crawlers and LLMs">
 </p>
 
 <h1 align="center">GioContextAi</h1>
